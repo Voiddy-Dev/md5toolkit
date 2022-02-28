@@ -1,5 +1,4 @@
-MARCH=pentium4
-CPPFLAGS= -O3 -march=$(MARCH)
+CPPFLAGS=-Wall -O3
 
 default: block2
 

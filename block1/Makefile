@@ -1,6 +1,4 @@
-MARCH=pentium4
-
-CFLAGS=-Wall -O3 -march=$(MARCH)
+CFLAGS=-Wall -O3
 
 default: block1
 
