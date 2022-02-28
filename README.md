@@ -39,7 +39,7 @@ the digests are the same.
 Building the Code
 =================
 
-sh build.sh
+`sh build.sh`
 
 builds all the code.
 

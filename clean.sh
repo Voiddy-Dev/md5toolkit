@@ -9,5 +9,6 @@ cd ../makeblocks
 make clean
 rm -f CV*
 rm -f block*
+rm -f md5cond*
 
 exit 0 
